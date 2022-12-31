@@ -1,5 +1,6 @@
 // CSS para toda la aplicación
 import "../styles/style.css";
+import "../styles/App.css";
 import { ChakraProvider } from "@chakra-ui/react";
 
 // Codigo aqui estará presente en todas las páginas
